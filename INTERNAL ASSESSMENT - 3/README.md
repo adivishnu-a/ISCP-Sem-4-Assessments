@@ -1,3 +1,5 @@
+MCQs
+
 ![1](https://github.com/adivishnu-a/ISCP-Sem-4-Assessments/assets/95145136/b71a4bc7-67df-4020-9ed7-e7c44d2bd48b)
 
 ![2](https://github.com/adivishnu-a/ISCP-Sem-4-Assessments/assets/95145136/75689d4f-d4d0-4f85-9dfe-19d75f0882bd)
