@@ -1,4 +1,4 @@
-MCQs Answers:
+MCQs:
 
 ![1](https://github.com/adivishnu-a/ISCP-Sem-4-Assessments/assets/95145136/6fc4516f-e36e-4165-9e83-d950f883caf8)
 
