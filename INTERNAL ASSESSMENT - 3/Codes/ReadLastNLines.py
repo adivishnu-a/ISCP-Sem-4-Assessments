@@ -1,7 +1,6 @@
-n = int(input("Enter the number of lines to read: "))
+n = int(input())
 
-file_name = "input.txt"
-output_file = "output.txt"
+file_name = "test.txt"
 
 # Read all lines from the file
 with open(file_name, "r") as file:
