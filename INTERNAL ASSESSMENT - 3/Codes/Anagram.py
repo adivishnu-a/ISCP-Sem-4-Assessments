@@ -1,3 +1,4 @@
+#This question has an error in the header file, so the question itself is wrong
 def are_anagrams(file1, file2):
     with open(file1, 'r') as f1, open(file2, 'r') as f2:
         string1 = f1.read().strip()
