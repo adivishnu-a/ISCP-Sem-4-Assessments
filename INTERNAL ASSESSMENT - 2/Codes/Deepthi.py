@@ -1,3 +1,4 @@
+#one test case fails, open a Pull Request if you resolve it
 from fractions import Fraction
 
 a, b, c = map(int, input().split(":"))
